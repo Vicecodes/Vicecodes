@@ -1,0 +1,4 @@
+- 👋 Hello, I am Yakup, a high school student.
+- 👀 I write code and make my own game
+- 🌱 I'm currently learning c#
+- 📫 You can reach it on Discord Yakup|#5584
